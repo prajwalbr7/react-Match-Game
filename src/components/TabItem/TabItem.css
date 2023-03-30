@@ -1,0 +1,22 @@
+.list-container {
+  list-style-type: none;
+}
+.button-style {
+  text-align: center;
+  width: 100px;
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+  color: #ffffff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 3px;
+  cursor: pointer;
+  border-width: 0px;
+}
+.yellowShades {
+  color: #fec653;
+
+  border-bottom: 2px solid #fec653;
+}
